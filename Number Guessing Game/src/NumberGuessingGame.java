@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//test
+
 public class NumberGuessingGame
 	{
 
