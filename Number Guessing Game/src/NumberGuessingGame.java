@@ -22,7 +22,7 @@ public class NumberGuessingGame
 				boolean playerIsStillGuessing = true;
 				
 				//State that they need to add a number
-				System.out.println("Hello " + userName + " What difficulty do you want? Easy (1), Medium, (2) or Hard (3)");
+				System.out.println("Hello " + userName + " What difficulty do you want? \nEasy (1) \nMedium(2) \nHard (3)");
 				
 				//Create integer for number guessing
 				int randomNumberDifficulty = userInput.nextInt();
